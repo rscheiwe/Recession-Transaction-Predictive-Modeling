@@ -24,8 +24,8 @@ The datasets can be found in `/data`, which includes both raw data and an analyt
 The notebooks are meant to be reviewed in the following order:
 
 1. `Exploratory Analysis`
-2. `Analytical Base Table Construction`
-3. `Classification Algorithms`
+2. `Data Cleaning` (e.g., `Analytical Base Table Construction`)
+3. `Feature Engineering`
 4. `Model Training`
 
 and the final model is available at `final_model.pkl`. 
